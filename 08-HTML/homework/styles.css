@@ -1,0 +1,48 @@
+
+*{
+    display: none;
+}
+h1{
+    color: salmon;
+}
+img{
+    width: 400px; 
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: white;
+    padding: 50px;
+    border: 4px;
+    border-color: white;
+    border-style: hidden ;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    
+}
+
+.fondo{
+   opacity: 10%;
+   position: absolute;
+   width: 100%;
+   z-index: 1;
+   background-size: cover;
+   margin-top: -10%;
+
+}
+
+.divClass,
+#thirdDiv {
+    margin: 0px auto;
+    text-align: center;
+    
+}
+
+
+
+
+
